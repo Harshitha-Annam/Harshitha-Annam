@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--[![An image of postman api student expert badge](https://api.badgr.io/public/assertions/I1Qx9D1fQ6KsxCZ0WyWb1Q?identity__email=harshithadeveloper20%40gmail.com)-->
-[![image](https://api.badgr.io/public/assertions/I1Qx9D1fQ6KsxCZ0WyWb1Q)
+[![image]([https://api.badgr.io/public/assertions/I1Qx9D1fQ6KsxCZ0WyWb1Q](https://api.badgr.io/public/collections/8658df30f29e42c9bc62de18418d4995))
