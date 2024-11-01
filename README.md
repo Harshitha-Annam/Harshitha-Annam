@@ -1,8 +1,8 @@
-***👋  Hi, I’m Harshitha-Annam***
+***👋      Hi, I’m Harshitha-Annam***
 <br />
-***👀  I’m interested in learning new technologies and enhancing my programming skills.***
+***👀      I’m interested in learning new technologies and enhancing my programming skills.***
 <br />
-***🌱  Proficient in Python, HTML5, CSS3, JavaScript.*** 
+***🌱      Proficient in Python, HTML5, CSS3, JavaScript.*** 
 
 
 
