@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--[![An image of postman api student expert badge](https://api.badgr.io/public/assertions/I1Qx9D1fQ6KsxCZ0WyWb1Q?identity__email=harshithadeveloper20%40gmail.com)-->
-[![Postman - Postman API Fundamentals Student Expert - 2024-10-23](https://github.com/user-attachments/assets/d07bee25-c54f-41ea-a953-9168d4453491)
+![Postman - Postman API Fundamentals Student Expert - 2024-10-23](https://github.com/user-attachments/assets/d07bee25-c54f-41ea-a953-9168d4453491)
 
